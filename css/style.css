@@ -147,12 +147,28 @@ p {
   .portfolio h2 {
     margin-bottom: 45px; }
   .portfolio img {
-    position: relative;
     display: block; }
     .portfolio img:nth-child(-n+3) {
       margin-bottom: 30px; }
     .portfolio img:hover {
       box-shadow: 0 0 37px 12px rgba(0, 0, 0, 0.15); }
+  .portfolio .portfolio__img {
+    position: relative;
+    display: inline-block; }
+    .portfolio .portfolio__img:after {
+      position: absolute;
+      content: "\f105";
+      font-family: 'Font Awesome 5 Free';
+      font-size: 15px;
+      font-weight: 900;
+      color: #333333;
+      width: 100%;
+      text-align: center;
+      top: 50%;
+      z-index: -2;
+      display: block; }
+    .portfolio .portfolio__img:hover:after {
+      z-index: 2; }
   .portfolio .btn:hover {
     padding: 21px 48px;
     border: none; }
@@ -416,9 +432,9 @@ footer .footer__text {
       font-size: 13px; }
     .background .luis .luis__content .luis__content__title {
       font-size: 53px;
-      margin-bottom: 15px; }
+      margin-bottom: 14px; }
     .background .luis .luis__content .luis__content__text {
-      font-size: 18px;
+      font-size: 17px;
       line-height: 25px; }
 
   .testimonials h2 {
