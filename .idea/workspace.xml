@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/.sass-cache/99ebd3eb09ddaa1f5ceba6c00043ffbf381348f3/style.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/css/.sass-cache/99ebd3eb09ddaa1f5ceba6c00043ffbf381348f3/style.scssc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +60,7 @@
       <workItem from="1590558765624" duration="17695000" />
       <workItem from="1590579794376" duration="1839000" />
       <workItem from="1590582093689" duration="314000" />
-      <workItem from="1590582713310" duration="302000" />
+      <workItem from="1590582713310" duration="883000" />
     </task>
     <task id="LOCAL-00001" summary="commit 2">
       <created>1590582812477</created>
@@ -68,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590582812477</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit 3">
+      <created>1590583027408</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590583027408</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,13 +84,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 2" />
+    <MESSAGE value="commit 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1590582810661">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1590583025957">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1590582810661" />
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1590583025957" />
     <state x="277" y="119" key="EditFileWatcherDialog" timestamp="1590338739329">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -95,10 +104,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="463" y="257" key="Github.CreateGistDialog/0.0.1280.680@0.0.1280.680" timestamp="1590582269098" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1590582814929">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1590583037831">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1590582814929" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1590583037831" />
     <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1590582731333">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

@@ -469,27 +469,29 @@ footer{
   }
   }
 @media only screen and (max-width: 420px) {
-  .luis .luis__content{
-
-   .luis__content__title {
-    font-size: 62px;
-  }
-    .luis__content__text{
-    font-size: 21px
+  .luis .luis__content {
+    .luis__content__title {
+      font-size: 62px;
     }
-  }
-  .luis .luis__content .btn {
-    padding: 20px 55px;
 
-    &:hover {
-      padding: 21px 56px;
+    .luis__content__text {
+      font-size: 21px
     }
-  }
-  .luis .luis__content .btn:first-of-type {
-    padding: 20px 38px;
 
-    &:hover {
-      padding: 21px 39px;
+     .btn {
+      width: 45%;
+
+      &:hover {
+        width: 45%;
+      }
+    }
+
+    .btn:first-of-type {
+      width: 45%;
+
+      &:hover {
+        width: 45%;
+      }
     }
   }
   .services .row div:nth-child(-n+5) {
@@ -537,33 +539,23 @@ footer{
   .background{
     padding-top: 0;
     .luis .luis__content{
+      .btn.btn-primary{
+        font-size: 13px;
+      }
       .luis__content__title {
-        font-size: 56px;
+        font-size: 53px;
         margin-bottom: 15px;
       }
       .luis__content__text {
-        font-size: 19px;
+        font-size: 18px;
         line-height: 25px;
-      }
-        .btn {
-        padding: 20px 45px;
-
-        &:hover {
-          padding: 21px 46px;
-        }
-      }
-       .btn:first-of-type {
-        padding: 20px 28px;
-
-        &:hover {
-          padding: 21px 29px;
-        }
       }
     }
   }
   .testimonials h2 {
     font-size: 40px;
   }
+
 }
 @media only screen and (max-width: 320px) {
   .background .luis .luis__content {
@@ -574,20 +566,20 @@ footer{
     .luis__content__text {
       font-size: 16px;
     }
-    .btn{
+    .btn {
       width: 100%;
-      &:hover{
+
+      &:hover {
         width: 100%;
-        box-shadow: 0 18px 27px 2px rgba(0, 0, 0, 0.1);
       }
     }
+
     .btn:first-of-type {
       width: 100%;
-      margin-right: 0;
-      margin-bottom: 30px;
-      &:hover{
+      margin-bottom: 15px;
+
+      &:hover {
         width: 100%;
-        box-shadow: 0 18px 27px 2px rgba(0, 0, 0, 0.1);
       }
     }
   }
