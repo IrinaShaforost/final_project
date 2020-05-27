@@ -17,15 +17,14 @@ $(document).ready(function(){
         }
 
     })
-    $( "#content" ).slideToggle( "slow" );
     $( "#click" ).click(function() {
-        $( "#content" ).slideToggle( "slow" );
+        $( "#content" ).slideDown( "slow" );
     });
     (function($) {
         $(function() {
 
             $('#up').click(function() {
-                $('body,html').animate({scrollTop:0},1000);
+                $('body,html').animate({scrollTop:0},2000);
                 return false;
             })
 

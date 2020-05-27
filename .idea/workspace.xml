@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5350f09-1103-45f0-9c0c-2c21d84a0069" name="Default Changelist" comment="">
+    <list default="true" id="c5350f09-1103-45f0-9c0c-2c21d84a0069" name="Default Changelist" comment="commit7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/.sass-cache/99ebd3eb09ddaa1f5ceba6c00043ffbf381348f3/style.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/css/.sass-cache/99ebd3eb09ddaa1f5ceba6c00043ffbf381348f3/style.scssc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +62,7 @@
       <workItem from="1590579794376" duration="1839000" />
       <workItem from="1590582093689" duration="314000" />
       <workItem from="1590582713310" duration="3325000" />
-      <workItem from="1590586076312" duration="1850000" />
+      <workItem from="1590586076312" duration="5166000" />
     </task>
     <task id="LOCAL-00001" summary="commit 2">
       <created>1590582812477</created>
@@ -90,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590587405182</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="hover_img">
+      <created>1590587967984</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590587967984</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,13 +110,14 @@
     <MESSAGE value="commit 3" />
     <MESSAGE value="commit 4" />
     <MESSAGE value="commit 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 5" />
+    <MESSAGE value="hover_img" />
+    <option name="LAST_COMMIT_MESSAGE" value="hover_img" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1590587403901">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1590589017168">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1590587403901" />
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1590589017168" />
     <state x="277" y="119" key="EditFileWatcherDialog" timestamp="1590338739329">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -120,10 +130,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="463" y="257" key="Github.CreateGistDialog/0.0.1280.680@0.0.1280.680" timestamp="1590582269098" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1590587408643">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1590587970127">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1590587408643" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1590587970127" />
     <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1590586076022">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

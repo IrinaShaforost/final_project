@@ -144,6 +144,8 @@ p {
 .portfolio {
   background-color: #f6f6f6;
   padding: 126px 0 123px; }
+  .portfolio #content {
+    display: none; }
   .portfolio h2 {
     margin-bottom: 45px; }
   .portfolio img {
@@ -381,18 +383,22 @@ footer .footer__text {
   .testimonials .testimonials__carousel {
     padding: 50px 45px 27px 80px; } }
 @media only screen and (max-width: 420px) {
-  .luis .luis__content .luis__content__title {
-    font-size: 62px; }
-  .luis .luis__content .luis__content__text {
-    font-size: 21px; }
-  .luis .luis__content .btn {
-    width: 45%; }
-    .luis .luis__content .btn:hover {
+  .luis .luis__content {
+    text-align: center; }
+    .luis .luis__content .luis__content__title {
+      font-size: 60px;
+      margin-bottom: 15px; }
+    .luis .luis__content .luis__content__text {
+      font-size: 20px;
+      line-height: 32px; }
+    .luis .luis__content .btn {
       width: 45%; }
-  .luis .luis__content .btn:first-of-type {
-    width: 45%; }
-    .luis .luis__content .btn:first-of-type:hover {
+      .luis .luis__content .btn:hover {
+        width: 45%; }
+    .luis .luis__content .btn:first-of-type {
       width: 45%; }
+      .luis .luis__content .btn:first-of-type:hover {
+        width: 45%; }
 
   .services .row div:nth-child(-n+5) {
     margin-bottom: 70px; }
@@ -428,31 +434,41 @@ footer .footer__text {
 @media only screen and (max-width: 375px) {
   .background {
     padding-top: 0; }
-    .background .luis .luis__content .btn.btn-primary {
-      font-size: 13px; }
-    .background .luis .luis__content .luis__content__title {
-      font-size: 53px;
-      margin-bottom: 14px; }
-    .background .luis .luis__content .luis__content__text {
-      font-size: 17px;
-      line-height: 25px; }
+    .background .luis .luis__content {
+      text-align: center; }
+      .background .luis .luis__content .btn.btn-primary {
+        font-size: 13px; }
+      .background .luis .luis__content .luis__content__title {
+        font-size: 53px;
+        margin-bottom: 15px; }
+      .background .luis .luis__content .luis__content__text {
+        font-size: 16px;
+        line-height: 25px; }
 
   .testimonials h2 {
     font-size: 40px; } }
+@media only screen and (max-width: 360px) {
+  .background .luis .luis__content {
+    text-align: center; }
+    .background .luis .luis__content .luis__content__title {
+      font-size: 52px;
+      margin-bottom: 15px; } }
 @media only screen and (max-width: 320px) {
-  .background .luis .luis__content .luis__content__title {
-    font-size: 47px; }
-  .background .luis .luis__content .luis__content__text {
-    font-size: 16px; }
-  .background .luis .luis__content .btn {
-    width: 100%; }
-    .background .luis .luis__content .btn:hover {
+  .background .luis .luis__content {
+    text-align: center; }
+    .background .luis .luis__content .luis__content__title {
+      font-size: 45px; }
+    .background .luis .luis__content .luis__content__text {
+      font-size: 16px; }
+    .background .luis .luis__content .btn {
       width: 100%; }
-  .background .luis .luis__content .btn:first-of-type {
-    width: 100%;
-    margin-bottom: 15px; }
-    .background .luis .luis__content .btn:first-of-type:hover {
-      width: 100%; }
+      .background .luis .luis__content .btn:hover {
+        width: 100%; }
+    .background .luis .luis__content .btn:first-of-type {
+      width: 100%;
+      margin-bottom: 15px; }
+      .background .luis .luis__content .btn:first-of-type:hover {
+        width: 100%; }
 
   .testimonials h2 {
     font-size: 35px; } }
