@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5350f09-1103-45f0-9c0c-2c21d84a0069" name="Default Changelist" comment="commit7">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/.sass-cache/99ebd3eb09ddaa1f5ceba6c00043ffbf381348f3/style.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/css/.sass-cache/99ebd3eb09ddaa1f5ceba6c00043ffbf381348f3/style.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="c5350f09-1103-45f0-9c0c-2c21d84a0069" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +55,7 @@
       <workItem from="1590579794376" duration="1839000" />
       <workItem from="1590582093689" duration="314000" />
       <workItem from="1590582713310" duration="3325000" />
-      <workItem from="1590586076312" duration="5166000" />
+      <workItem from="1590586076312" duration="5410000" />
     </task>
     <task id="LOCAL-00001" summary="commit 2">
       <created>1590582812477</created>
@@ -99,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590587967984</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="slideDown">
+      <created>1590592389437</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590592389437</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,13 +111,14 @@
     <MESSAGE value="commit 4" />
     <MESSAGE value="commit 5" />
     <MESSAGE value="hover_img" />
-    <option name="LAST_COMMIT_MESSAGE" value="hover_img" />
+    <MESSAGE value="slideDown" />
+    <option name="LAST_COMMIT_MESSAGE" value="slideDown" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1590589017168">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1590592491472">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1590589017168" />
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1590592491472" />
     <state x="277" y="119" key="EditFileWatcherDialog" timestamp="1590338739329">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
