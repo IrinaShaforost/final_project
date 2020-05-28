@@ -585,17 +585,21 @@ footer{
 
     .btn {
       width: 45%;
+      padding: 20px 0;
 
       &:hover {
         width: 45%;
+        padding: 20px 0;
       }
     }
 
     .btn:first-of-type {
       width: 45%;
+      padding: 20px 0;
 
       &:hover {
         width: 45%;
+        padding: 20px 0;
       }
     }
   }
@@ -609,7 +613,7 @@ footer{
     padding: 126px 15px 123px;
   }
   .testimonials {
-    padding: 120px 15px 120px;
+    padding: 120px 0 120px;
 
     .testimonials__carousel {
 
