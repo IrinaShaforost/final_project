@@ -210,24 +210,8 @@ p{
     .portfolio__img{
       position: relative;
       display: inline-block;
-
-      &:after {
-        position: absolute;
-        content: "\f105";
-        font-family: 'Font Awesome 5 Free';
-        font-size: 15px;
-        font-weight: 900;
-        color: #333333;
-        text-align: center;
-        top: 50%;
-        left: 50%;
-        z-index: -2;
-        display: block;
-      }
       &:hover {
-        &:after {
-          z-index: 2;
-        }
+        cursor: pointer;
       }
 
     }
@@ -605,7 +589,9 @@ footer{
   }
 }
 @media only screen and (max-width: 420px) {
-
+  .contact__background section .row {
+    padding: 0;
+  }
   .services .row div:nth-child(-n+5) {
     margin-bottom: 70px;
   }

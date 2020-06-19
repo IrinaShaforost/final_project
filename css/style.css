@@ -157,20 +157,8 @@ p {
   .portfolio .portfolio__img {
     position: relative;
     display: inline-block; }
-    .portfolio .portfolio__img:after {
-      position: absolute;
-      content: "\f105";
-      font-family: 'Font Awesome 5 Free';
-      font-size: 15px;
-      font-weight: 900;
-      color: #333333;
-      text-align: center;
-      top: 50%;
-      left: 50%;
-      z-index: -2;
-      display: block; }
-    .portfolio .portfolio__img:hover:after {
-      z-index: 2; }
+    .portfolio .portfolio__img:hover {
+      cursor: pointer; }
   .portfolio .btn:hover {
     padding: 21px 48px;
     border: none; }
@@ -460,6 +448,9 @@ footer .footer__text {
         width: 45%;
         padding: 20px 0; } }
 @media only screen and (max-width: 420px) {
+  .contact__background section .row {
+    padding: 0; }
+
   .services .row div:nth-child(-n+5) {
     margin-bottom: 70px; }
 
